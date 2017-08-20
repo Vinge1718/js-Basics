@@ -1,3 +1,7 @@
 #currentBalance, #customerDetails{
   display: none;
 }
+ul li{
+  list-style: none;
+  padding: 10px;
+}
